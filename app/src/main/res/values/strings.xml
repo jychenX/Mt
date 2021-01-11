@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">茅台</string>
+    <string name="app_name_money">Money</string>
+
+    <string name="auto_wechat_money">微信自动抢红包</string>
+    <string name="auto_wechat_reply_">微信自动回复</string>
+    <string name="auto_alipay_fu">支付宝自动扫福字</string>
+
+    <string name="id">com.tencent.mm:id/</string>
+
+
+    <string name="money_service_name">money</string>
+    <string name="taobao_service_name">茅台</string>
+    <string name="money_des">辅助工具设置步骤：\n\n,1、请在微信的设置-〉新消息提醒，\n将 “接收新消息通知” 和 “通知显示消息详情” 这两个开关打开。\n\n2、请不要锁定屏幕，有新红包时能重新打开微信界面。</string>
+
+    <string name="keyString">[微信红包]</string>
+    <!--com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyNotHookReceiveUI  com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyReceiveUI-->
+    <string name="open">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyNotHookReceiveUI</string>
+    <string name="close">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI</string>
+    <string name="chat">com.tencent.mm.ui.LauncherUI</string>
+    <string name="lhb">领取红包</string>
+
+
+    <string name="search_phone_service_name">Search Phone</string>
+    <string name="search_phone_des">Search phone：\n\n1、请打开微信首页，点击上方的搜索按钮，进入后不要做任何操作，将会自动进行搜索;\n\n2、请不要锁定屏幕，保持手机电量充足;</string>
+
+    <string name="search_find_page">com.tencent.mm.plugin.fts.ui.FTSMainUI</string>
+    <string name="user_info_page">com.tencent.mm.plugin.profile.ui.ContactInfoUI</string>
+    <string name="user_not_exist_page">com.tencent.mm.ui.base.i</string>
+
+    <string name="search_error">操作过于频繁，请稍后重试</string>
+    <string name="user_not_exist">用户不存在</string>
+    <string name="find_key_string">查找手机/QQ号</string>
+
+
+<!--    //淘宝-->
+    <string name="taobao_id">com.taobao.taobao:id/</string>
+
+    <string name="taobao_gwc">com.taobao.android.trade.cart.CartActivity</string>
+    <string name="taobao_gwc_1">com.taobao.tao.TBMainActivity</string>
+    <string name="taobao_jiesuan">com.taobao.android.purchase.TBPurchaseActivity</string>
+    <string name="taobao_pay">com.alipay.android.msp.ui.views.MspContainerActivity</string>
+    <string name="taobao_pay_password">com.alipay.mobile.verifyidentity.module.password.pay.ui.PayPwdDialogActivity</string>
+
+    <string name="taobao_tjdd">提交订单</string>
+
+    <string name="taobao_pay_key">立即付款</string>
+
+
+</resources>
